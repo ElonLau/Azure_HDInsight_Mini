@@ -8,6 +8,6 @@ You will complete four different exercises in this mini-project.
 
 When you're finished, please submit a link to GitHub containing the following deliverables: 
 
-A Jupyter Notebook with code to achieve stated objective in each cell
-A PPT/Word-doc with screenshots of each step as performed according to this lab
-Make sure you delete your cluster
+- A Jupyter Notebook with code to achieve stated objective in each cell
+- A PPT/Word-doc with screenshots of each step as performed according to this lab
+- Make sure you delete your cluster
